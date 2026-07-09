@@ -1,0 +1,12 @@
+ply
+format binary_little_endian 1.0
+comment Created by Open3D
+element vertex 8614648
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+)��H���Iq"DYtBO��H���I3�D�[J��H���I�D��o���H@��I"2D]eLI��H͕�I8HD~�dV��H1��I�D��Z��HT��I'�DOj8���H���I�$Dk�Gg��H��IW�Dc�?���H���I�4D��Ra��H
